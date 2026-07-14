@@ -1,2 +1,2 @@
 frase = "Let's try this"
-print(frase[6:9])
+print(frase[0:15:2])
