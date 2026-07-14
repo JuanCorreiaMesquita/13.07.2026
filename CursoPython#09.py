@@ -8,3 +8,14 @@ print("6", frase[::])
 print("7", frase[3::9])
 print(len(frase))
 print(frase.count(" "))
+print(frase.count("o", 0, 36))
+print(frase.find("Just", 9))
+print("us" in frase)
+print(frase.replace("u", "apenas"))
+print(frase.upper())
+print(frase.lower())
+print(frase.capitalize())
+print(frase.title())
+#---------------------------------------------------------------------------------#
+###Exercises 14/07/2026###
+#---------------------------------------------------------------------------------#
